@@ -1,0 +1,38 @@
+body {
+    width: auto;
+    max-width: 1440px;
+    font-family: "raleway", sans-serif;
+    margin: auto;
+}
+
+header, section {
+    margin: 40px 50px 40px 50px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+}
+
+nav {
+    display: flex;
+}
