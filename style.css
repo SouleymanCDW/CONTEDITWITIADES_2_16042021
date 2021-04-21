@@ -36,3 +36,13 @@ header {
 nav {
     display: flex;
 }
+
+nav ul {
+    display: flex;
+    margin-right: 40px;
+}
+
+nav li a {
+    padding: 0px 25px 0px 25px;
+}
+
